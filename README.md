@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clarke Lee
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently perfecting my Data Analysis skill
 - 💞️ I’m looking to collaborate on Business Analysis
 - 📫 How to reach me through ccark.d.lee@gmail.com
 
