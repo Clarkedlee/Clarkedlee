@@ -1,3 +1,5 @@
+![Beauti](https://www.instagram.com/p/BjtLxfBFHOS/)
+
 - 👋 Hi, I’m Clarke Lee
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently perfecting my Data Analysis skill
