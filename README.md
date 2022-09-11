@@ -1,4 +1,4 @@
-![Beauti](https://www.instagram.com/p/BjtLxfBFHOS/)
+![Beauti](https://github.com/Clarkedlee/Clarkedlee/blob/main/20180529-L1004566-2.jpg)
 
 - 👋 Hi, I’m Clarke Lee
 - 👀 I’m interested in Data Science 
